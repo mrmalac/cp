@@ -1,2 +1,2 @@
 # randomcstuff
-My random c projects
+my random c projects
